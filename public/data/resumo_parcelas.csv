@@ -1,0 +1,634 @@
+ASSOCIACAO,ANO_CONTRATO,NU_PARCELA,ST_PARCELA,parcelas,valor_kz,contratos
+Clientes individuais,2022,1,Paga,65,10928874.07,65
+Clientes individuais,2022,2,Paga,65,10928874.07,65
+Clientes individuais,2022,3,Cobrança,1,124545.66,1
+Clientes individuais,2022,3,Paga,64,11049480.79,64
+Clientes individuais,2022,4,Paga,65,10957947.33,65
+Clientes individuais,2022,5,Cobrança,1,137000.23,1
+Clientes individuais,2022,5,Paga,62,10979957.03,62
+Clientes individuais,2022,6,Atrasada,3,3009026.02,3
+Clientes individuais,2022,6,Paga,59,9565347.38,59
+Clientes individuais,2022,7,Atrasada,3,902190.07,3
+Clientes individuais,2022,7,Paga,57,9115991.8,57
+Clientes individuais,2022,8,Atrasada,3,888028.43,3
+Clientes individuais,2022,8,Paga,57,10449344.38,57
+Clientes individuais,2022,9,Atrasada,4,1953041.93,4
+Clientes individuais,2022,9,Paga,56,9705833.12,56
+Clientes individuais,2022,10,Atrasada,4,1902560.43,4
+Clientes individuais,2022,10,Paga,56,9619924.39,56
+Clientes individuais,2022,11,Atrasada,4,1866413.71,4
+Clientes individuais,2022,11,Paga,54,8186450.92,54
+Clientes individuais,2022,12,Atrasada,6,1992885.01,6
+Clientes individuais,2022,12,Paga,52,7987429.82,52
+Clientes individuais,2022,13,Atrasada,4,474273.28,4
+Clientes individuais,2022,13,Paga,40,4855745.81,40
+Clientes individuais,2022,14,Atrasada,4,474273.28,4
+Clientes individuais,2022,14,Paga,40,4845998.99,40
+Clientes individuais,2022,15,Atrasada,6,731106.62,6
+Clientes individuais,2022,15,Paga,37,4518182.47,37
+Clientes individuais,2022,16,Atrasada,9,1110970.89,9
+Clientes individuais,2022,16,Paga,33,3773077.19,33
+Clientes individuais,2022,17,Atrasada,12,1350721.29,12
+Clientes individuais,2022,17,Paga,30,3524434.95,30
+Clientes individuais,2022,18,Atrasada,13,1481494.23,13
+Clientes individuais,2022,18,Paga,29,3384944.58,29
+Clientes individuais,2022,19,Atrasada,20,2157154.44,20
+Clientes individuais,2022,19,Paga,22,2700737.79,22
+Clientes individuais,2022,20,Atrasada,25,2705155.35,25
+Clientes individuais,2022,20,Paga,17,2139545.14,17
+Clientes individuais,2022,21,Atrasada,28,3046246.67,28
+Clientes individuais,2022,21,Paga,14,1795199.45,14
+Clientes individuais,2022,22,Atrasada,31,3419883.65,31
+Clientes individuais,2022,22,Paga,11,1414080.0,11
+Clientes individuais,2022,23,Atrasada,31,3419883.65,31
+Clientes individuais,2022,23,Paga,11,1409872.24,11
+Clientes individuais,2022,24,Atrasada,33,3681429.1,33
+Clientes individuais,2022,24,Paga,9,1144201.16,9
+Clientes individuais,2023,1,Atrasada,1,88092.45,1
+Clientes individuais,2023,1,Paga,36,10599362.7,36
+Clientes individuais,2023,2,Atrasada,1,86162.84,1
+Clientes individuais,2023,2,Paga,36,11248516.51,36
+Clientes individuais,2023,3,Atrasada,2,663909.52,2
+Clientes individuais,2023,3,Paga,35,10813572.33,35
+Clientes individuais,2023,4,Atrasada,2,529346.97,2
+Clientes individuais,2023,4,Paga,35,11149855.59,35
+Clientes individuais,2023,5,Atrasada,2,510771.7,2
+Clientes individuais,2023,5,Paga,35,11049194.53,35
+Clientes individuais,2023,6,Atrasada,2,499707.46,2
+Clientes individuais,2023,6,Paga,35,11092400.18,35
+Clientes individuais,2023,7,Atrasada,3,1140432.85,3
+Clientes individuais,2023,7,Paga,32,8449216.94,32
+Clientes individuais,2023,8,Atrasada,4,1710398.28,4
+Clientes individuais,2023,8,Paga,23,5232087.56,23
+Clientes individuais,2023,9,Atrasada,3,1667443.37,3
+Clientes individuais,2023,9,Paga,23,5318258.67,23
+Clientes individuais,2023,10,Atrasada,3,1636134.02,3
+Clientes individuais,2023,10,Paga,22,5092797.55,22
+Clientes individuais,2023,11,Atrasada,4,1797245.17,4
+Clientes individuais,2023,11,Paga,20,4738776.8,20
+Clientes individuais,2023,12,Atrasada,6,2028603.53,6
+Clientes individuais,2023,12,Paga,18,4590746.9,18
+Clientes individuais,2023,13,Atrasada,1,1129145.39,1
+Clientes individuais,2023,13,Paga,6,1270779.32,6
+Clientes individuais,2023,14,Atrasada,2,1574526.08,2
+Clientes individuais,2023,14,Paga,5,934816.89,5
+Clientes individuais,2023,15,Atrasada,2,1543653.0,2
+Clientes individuais,2023,15,Paga,3,468806.26,3
+Clientes individuais,2023,16,Atrasada,2,1513385.29,2
+Clientes individuais,2023,16,Paga,3,465551.89,3
+Clientes individuais,2023,17,Atrasada,2,1483711.06,2
+Clientes individuais,2023,17,Paga,3,462361.33,3
+Clientes individuais,2023,18,Atrasada,2,1454618.7,2
+Clientes individuais,2023,18,Paga,3,459233.33,3
+Clientes individuais,2023,19,Atrasada,2,1426096.77,2
+Clientes individuais,2023,19,Paga,3,456166.66,3
+Clientes individuais,2023,20,Atrasada,3,1501634.08,3
+Clientes individuais,2023,20,Paga,2,352666.66,2
+Clientes individuais,2023,21,Atrasada,3,1474219.68,3
+Clientes individuais,2023,21,Paga,2,352666.66,2
+Clientes individuais,2023,22,Atrasada,3,1447342.81,3
+Clientes individuais,2023,22,Paga,2,352666.66,2
+Clientes individuais,2023,23,Atrasada,3,1420992.96,3
+Clientes individuais,2023,23,Paga,2,352666.66,2
+Clientes individuais,2023,24,Atrasada,3,1395159.79,3
+Clientes individuais,2023,24,Paga,2,352666.82,2
+Clientes individuais,2024,1,Cobrança,1,76666.67,1
+Clientes individuais,2024,1,Paga,23,4552418.67,23
+Clientes individuais,2024,2,Atrasada,1,76666.67,1
+Clientes individuais,2024,2,Paga,23,4498028.06,23
+Clientes individuais,2024,3,Atrasada,1,76666.67,1
+Clientes individuais,2024,3,Paga,23,4488381.73,23
+Clientes individuais,2024,4,Atrasada,2,636666.67,2
+Clientes individuais,2024,4,Paga,22,3947786.92,22
+Clientes individuais,2024,5,Atrasada,3,822199.13,3
+Clientes individuais,2024,5,Paga,21,3806010.49,21
+Clientes individuais,2024,6,Atrasada,3,818561.23,3
+Clientes individuais,2024,6,Paga,20,3737961.44,20
+Clientes individuais,2024,7,Atrasada,3,814994.66,3
+Clientes individuais,2024,7,Paga,17,2575153.83,17
+Clientes individuais,2024,8,Atrasada,3,811498.03,3
+Clientes individuais,2024,8,Paga,17,2596869.66,17
+Clientes individuais,2024,9,Atrasada,4,889922.5,4
+Clientes individuais,2024,9,Paga,16,2529715.87,16
+Clientes individuais,2024,10,Atrasada,7,1381912.9,7
+Clientes individuais,2024,10,Paga,13,2051870.51,13
+Clientes individuais,2024,11,Atrasada,7,1368607.42,7
+Clientes individuais,2024,11,Paga,12,1682261.04,12
+Clientes individuais,2024,12,Atrasada,7,1355562.87,7
+Clientes individuais,2024,12,Paga,12,1675498.04,12
+Clientes individuais,2024,13,Atrasada,1,76666.67,1
+Clientes individuais,2024,13,Paga,4,596893.73,4
+Clientes individuais,2024,14,Atrasada,1,76666.67,1
+Clientes individuais,2024,14,Paga,4,595435.4,4
+Clientes individuais,2024,15,Atrasada,1,76666.67,1
+Clientes individuais,2024,15,Paga,4,540288.58,4
+Clientes individuais,2024,16,Atrasada,1,76666.67,1
+Clientes individuais,2024,16,Paga,4,541877.54,4
+Clientes individuais,2024,17,Atrasada,1,76666.67,1
+Clientes individuais,2024,17,Paga,4,540419.2,4
+Clientes individuais,2024,18,Atrasada,1,76666.67,1
+Clientes individuais,2024,18,Paga,4,538960.87,4
+Clientes individuais,2024,19,Atrasada,2,229029.81,2
+Clientes individuais,2024,19,Paga,3,377761.47,3
+Clientes individuais,2024,20,Atrasada,2,226042.3,2
+Clientes individuais,2024,20,Paga,3,380633.8,3
+Clientes individuais,2024,21,Atrasada,2,223113.37,2
+Clientes individuais,2024,21,Paga,3,383592.75,3
+Clientes individuais,2024,22,Atrasada,2,220241.87,2
+Clientes individuais,2024,22,Paga,3,377717.14,3
+Clientes individuais,2024,23,Atrasada,2,217426.67,2
+Clientes individuais,2024,23,Paga,3,371928.13,3
+Clientes individuais,2024,24,Atrasada,3,431200.0,3
+Clientes individuais,2024,24,Paga,2,153936.36,2
+Clientes individuais,2025,1,Atrasada,2,420917.73,2
+Clientes individuais,2025,1,Paga,54,7153322.13,54
+Clientes individuais,2025,2,Atrasada,2,402836.8,2
+Clientes individuais,2025,2,Paga,54,7143154.31,54
+Clientes individuais,2025,3,Atrasada,3,552350.83,3
+Clientes individuais,2025,3,Paga,53,6859792.07,53
+Clientes individuais,2025,4,Atrasada,5,1329594.79,5
+Clientes individuais,2025,4,Paga,51,6287862.55,51
+Clientes individuais,2025,5,Atrasada,5,1303524.33,5
+Clientes individuais,2025,5,Paga,51,6282228.52,51
+Clientes individuais,2025,6,Atrasada,6,1386267.87,6
+Clientes individuais,2025,6,Paga,49,6014573.42,49
+Clientes individuais,2025,7,Atrasada,6,1253252.16,6
+Clientes individuais,2025,7,Paga,47,5899041.33,47
+Clientes individuais,2025,8,Atrasada,6,1226044.76,6
+Clientes individuais,2025,8,Não paga,2,217005.6,2
+Clientes individuais,2025,8,Paga,45,5681452.81,45
+Clientes individuais,2025,9,Atrasada,38,5195057.34,38
+Clientes individuais,2025,9,Não paga,4,435992.6,4
+Clientes individuais,2025,9,Paga,10,1410467.72,10
+Clientes individuais,2025,10,Atrasada,18,2825322.58,18
+Clientes individuais,2025,10,Não paga,29,3506278.92,29
+Clientes individuais,2025,10,Paga,4,564984.77,4
+Clientes individuais,2025,11,Atrasada,4,750173.05,4
+Clientes individuais,2025,11,Não paga,42,5228099.36,42
+Clientes individuais,2025,11,Paga,4,564984.77,4
+Clientes individuais,2025,12,Atrasada,4,760026.89,4
+Clientes individuais,2025,12,Não paga,44,5566431.55,44
+Clientes individuais,2025,12,Paga,2,163760.54,2
+Clientes individuais,2025,13,Atrasada,1,347280.31,1
+Clientes individuais,2025,13,Não paga,19,2592160.33,19
+Clientes individuais,2025,14,Atrasada,1,340470.9,1
+Clientes individuais,2025,14,Não paga,16,2243858.67,16
+Clientes individuais,2025,15,Atrasada,1,333794.98,1
+Clientes individuais,2025,15,Não paga,15,2135430.08,15
+Clientes individuais,2025,16,Atrasada,1,327249.99,1
+Clientes individuais,2025,16,Não paga,15,2135430.08,15
+Clientes individuais,2025,17,Atrasada,1,320833.33,1
+Clientes individuais,2025,17,Não paga,13,1762666.48,13
+Clientes individuais,2025,18,Não paga,14,2083499.81,14
+Clientes individuais,2025,19,Não paga,14,2083499.81,14
+Clientes individuais,2025,20,Não paga,14,2083499.81,14
+Clientes individuais,2025,21,Não paga,13,1996499.81,13
+Clientes individuais,2025,22,Não paga,13,1996499.81,13
+Clientes individuais,2025,23,Não paga,13,1996499.81,13
+Clientes individuais,2025,24,Não paga,13,1996499.25,13
+Clientes individuais,2026,1,Atrasada,4,669916.67,4
+Clientes individuais,2026,1,Não paga,5,538740.01,5
+Clientes individuais,2026,1,Paga,54,7461862.4,54
+Clientes individuais,2026,2,Atrasada,3,357940.67,3
+Clientes individuais,2026,2,Não paga,8,1118406.68,8
+Clientes individuais,2026,2,Paga,52,7201375.39,52
+Clientes individuais,2026,3,Atrasada,8,1306267.08,8
+Clientes individuais,2026,3,Cobrança,1,71586.67,1
+Clientes individuais,2026,3,Não paga,10,1310923.35,10
+Clientes individuais,2026,3,Paga,44,5994902.92,44
+Clientes individuais,2026,4,Atrasada,8,1039180.41,8
+Clientes individuais,2026,4,Não paga,16,2210926.69,16
+Clientes individuais,2026,4,Paga,39,5420881.02,39
+Clientes individuais,2026,5,Atrasada,10,1296294.68,10
+Clientes individuais,2026,5,Não paga,22,3037313.77,22
+Clientes individuais,2026,5,Paga,31,4330486.99,31
+Clientes individuais,2026,6,Atrasada,16,2107107.24,16
+Clientes individuais,2026,6,Não paga,30,4271924.59,30
+Clientes individuais,2026,6,Paga,17,2282630.89,17
+Clientes individuais,2026,7,Atrasada,20,2438781.5,20
+Clientes individuais,2026,7,Não paga,34,4771357.95,34
+Clientes individuais,2026,7,Paga,5,697662.14,5
+Clientes individuais,2026,8,Atrasada,8,1125991.2,8
+Clientes individuais,2026,8,Não paga,50,6696385.38,50
+Clientes individuais,2026,8,Paga,1,78800.0,1
+Clientes individuais,2026,9,Não paga,59,7901176.58,59
+Clientes individuais,2026,10,Não paga,59,7901176.6,59
+Clientes individuais,2026,11,Não paga,56,7617886.07,56
+Clientes individuais,2026,12,Não paga,56,7617886.23,56
+Clientes individuais,2026,13,Não paga,36,4839849.71,36
+Clientes individuais,2026,14,Não paga,35,4770146.2,35
+Clientes individuais,2026,15,Não paga,35,4770146.2,35
+Clientes individuais,2026,16,Não paga,35,4770146.2,35
+Clientes individuais,2026,17,Não paga,34,4620896.2,34
+Clientes individuais,2026,18,Não paga,34,4620896.2,34
+Clientes individuais,2026,19,Não paga,34,4620896.2,34
+Clientes individuais,2026,20,Não paga,34,4620896.2,34
+Clientes individuais,2026,21,Não paga,34,4620896.2,34
+Clientes individuais,2026,22,Não paga,34,4620896.2,34
+Clientes individuais,2026,23,Não paga,34,4620896.2,34
+Clientes individuais,2026,24,Não paga,34,4620894.41,34
+Clientes individuais,Sem ano,1,Atrasada,1,215884.28,1
+Clientes individuais,Sem ano,1,Paga,22,4307435.74,22
+Clientes individuais,Sem ano,2,Atrasada,1,211651.26,1
+Clientes individuais,Sem ano,2,Paga,22,4301268.84,22
+Clientes individuais,Sem ano,3,Atrasada,1,207501.24,1
+Clientes individuais,Sem ano,3,Paga,22,4295222.86,22
+Clientes individuais,Sem ano,4,Atrasada,1,203432.59,1
+Clientes individuais,Sem ano,4,Paga,22,4289295.43,22
+Clientes individuais,Sem ano,5,Atrasada,1,199443.7,1
+Clientes individuais,Sem ano,5,Paga,22,4283484.22,22
+Clientes individuais,Sem ano,6,Atrasada,1,195533.03,1
+Clientes individuais,Sem ano,6,Paga,22,4277787.03,22
+Clientes individuais,Sem ano,7,Atrasada,1,191699.07,1
+Clientes individuais,Sem ano,7,Paga,8,2671032.17,8
+Clientes individuais,Sem ano,8,Atrasada,1,187940.26,1
+Clientes individuais,Sem ano,8,Paga,8,2671032.17,8
+Clientes individuais,Sem ano,9,Atrasada,1,184255.15,1
+Clientes individuais,Sem ano,9,Paga,8,2671032.17,8
+Clientes individuais,Sem ano,10,Atrasada,1,180642.3,1
+Clientes individuais,Sem ano,10,Paga,8,2671032.15,8
+Clientes individuais,Sem ano,11,Atrasada,1,177100.3,1
+Clientes individuais,Sem ano,11,Paga,6,2206851.18,6
+Clientes individuais,Sem ano,12,Atrasada,1,173627.75,1
+Clientes individuais,Sem ano,12,Paga,6,2206851.37,6
+Comando Geral Da Policia Nacional,2023,1,Atrasada,1,169166.67,1
+Comando Geral Da Policia Nacional,2023,1,Paga,236,25566048.78,236
+Comando Geral Da Policia Nacional,2023,2,Não paga,1,169166.67,1
+Comando Geral Da Policia Nacional,2023,2,Paga,236,25479572.78,236
+Comando Geral Da Policia Nacional,2023,3,Não paga,1,169166.67,1
+Comando Geral Da Policia Nacional,2023,3,Paga,236,25374969.58,236
+Comando Geral Da Policia Nacional,2023,4,Não paga,1,169166.67,1
+Comando Geral Da Policia Nacional,2023,4,Paga,236,25174306.78,236
+Comando Geral Da Policia Nacional,2023,5,Não paga,1,169166.67,1
+Comando Geral Da Policia Nacional,2023,5,Paga,236,24914967.18,236
+Comando Geral Da Policia Nacional,2023,6,Não paga,1,169166.67,1
+Comando Geral Da Policia Nacional,2023,6,Paga,235,24311992.8,235
+Comando Geral Da Policia Nacional,2023,7,Atrasada,2,270666.67,2
+Comando Geral Da Policia Nacional,2023,7,Paga,233,24037183.85,233
+Comando Geral Da Policia Nacional,2023,8,Atrasada,4,533213.34,4
+Comando Geral Da Policia Nacional,2023,8,Paga,231,23770607.18,231
+Comando Geral Da Policia Nacional,2023,9,Atrasada,5,698996.67,5
+Comando Geral Da Policia Nacional,2023,9,Paga,230,23603523.85,230
+Comando Geral Da Policia Nacional,2023,10,Atrasada,7,983196.67,7
+Comando Geral Da Policia Nacional,2023,10,Paga,228,23318023.85,228
+Comando Geral Da Policia Nacional,2023,11,Atrasada,7,983196.67,7
+Comando Geral Da Policia Nacional,2023,11,Paga,228,23316723.85,228
+Comando Geral Da Policia Nacional,2023,12,Atrasada,7,983196.67,7
+Comando Geral Da Policia Nacional,2023,12,Paga,228,23315423.53,228
+Comando Geral Da Policia Nacional,2023,13,Atrasada,8,1172663.34,8
+Comando Geral Da Policia Nacional,2023,13,Paga,206,21286763.78,206
+Comando Geral Da Policia Nacional,2023,14,Atrasada,11,1460246.67,11
+Comando Geral Da Policia Nacional,2023,14,Paga,200,20787917.41,200
+Comando Geral Da Policia Nacional,2023,15,Atrasada,11,1460246.67,11
+Comando Geral Da Policia Nacional,2023,15,Paga,200,20786617.36,200
+Comando Geral Da Policia Nacional,2023,16,Atrasada,11,1460246.67,11
+Comando Geral Da Policia Nacional,2023,16,Paga,198,20637050.74,198
+Comando Geral Da Policia Nacional,2023,17,Atrasada,12,1595580.0,12
+Comando Geral Da Policia Nacional,2023,17,Paga,197,20500417.41,197
+Comando Geral Da Policia Nacional,2023,18,Atrasada,12,1595580.0,12
+Comando Geral Da Policia Nacional,2023,18,Paga,197,20499117.21,197
+Comando Geral Da Policia Nacional,2023,19,Atrasada,12,1595580.0,12
+Comando Geral Da Policia Nacional,2023,19,Paga,191,19926928.6,191
+Comando Geral Da Policia Nacional,2023,20,Atrasada,13,1825646.67,13
+Comando Geral Da Policia Nacional,2023,20,Paga,189,19601203.95,189
+Comando Geral Da Policia Nacional,2023,21,Atrasada,14,2062480.0,14
+Comando Geral Da Policia Nacional,2023,21,Paga,188,19363070.62,188
+Comando Geral Da Policia Nacional,2023,22,Atrasada,15,2157213.33,15
+Comando Geral Da Policia Nacional,2023,22,Paga,187,19267037.35,187
+Comando Geral Da Policia Nacional,2023,23,Atrasada,16,2238413.33,16
+Comando Geral Da Policia Nacional,2023,23,Cobrança,3,201466.66,3
+Comando Geral Da Policia Nacional,2023,23,Paga,182,18947343.36,182
+Comando Geral Da Policia Nacional,2023,24,Atrasada,16,2238413.41,16
+Comando Geral Da Policia Nacional,2023,24,Não paga,3,200166.82,3
+Comando Geral Da Policia Nacional,2023,24,Paga,182,18947342.72,182
+Comando Geral Da Policia Nacional,2024,1,Atrasada,19,1541266.67,19
+Comando Geral Da Policia Nacional,2024,1,Paga,653,65566345.56,653
+Comando Geral Da Policia Nacional,2024,2,Atrasada,21,1682541.67,21
+Comando Geral Da Policia Nacional,2024,2,Cobrança,1,47366.67,1
+Comando Geral Da Policia Nacional,2024,2,Paga,650,64940200.17,650
+Comando Geral Da Policia Nacional,2024,3,Atrasada,24,2078616.68,24
+Comando Geral Da Policia Nacional,2024,3,Paga,648,64297203.87,648
+Comando Geral Da Policia Nacional,2024,4,Atrasada,28,2419375.02,28
+Comando Geral Da Policia Nacional,2024,4,Paga,644,63646287.21,644
+Comando Geral Da Policia Nacional,2024,5,Atrasada,31,2761433.37,31
+Comando Geral Da Policia Nacional,2024,5,Cobrança,2,203860.0,2
+Comando Geral Da Policia Nacional,2024,5,Paga,639,62847285.74,639
+Comando Geral Da Policia Nacional,2024,6,Atrasada,31,2917658.35,31
+Comando Geral Da Policia Nacional,2024,6,Cobrança,1,47366.67,1
+Comando Geral Da Policia Nacional,2024,6,Não paga,3,345960.0,3
+Comando Geral Da Policia Nacional,2024,6,Paga,637,62311555.73,637
+Comando Geral Da Policia Nacional,2024,7,Atrasada,33,3162916.69,33
+Comando Geral Da Policia Nacional,2024,7,Cobrança,2,203000.0,2
+Comando Geral Da Policia Nacional,2024,7,Não paga,2,203860.0,2
+Comando Geral Da Policia Nacional,2024,7,Paga,634,61812725.74,634
+Comando Geral Da Policia Nacional,2024,8,Atrasada,34,3292075.03,34
+Comando Geral Da Policia Nacional,2024,8,Cobrança,2,142100.0,2
+Comando Geral Da Policia Nacional,2024,8,Não paga,2,203860.0,2
+Comando Geral Da Policia Nacional,2024,8,Paga,633,61555729.08,633
+Comando Geral Da Policia Nacional,2024,9,Atrasada,35,3368500.01,35
+Comando Geral Da Policia Nacional,2024,9,Cobrança,5,296966.67,5
+Comando Geral Da Policia Nacional,2024,9,Não paga,4,345960.0,4
+Comando Geral Da Policia Nacional,2024,9,Paga,627,60993599.07,627
+Comando Geral Da Policia Nacional,2024,10,Atrasada,37,3732636.69,37
+Comando Geral Da Policia Nacional,2024,10,Cobrança,7,541333.34,7
+Comando Geral Da Policia Nacional,2024,10,Não paga,9,642926.67,9
+Comando Geral Da Policia Nacional,2024,10,Paga,618,59899390.73,618
+Comando Geral Da Policia Nacional,2024,11,Atrasada,37,3724945.03,37
+Comando Geral Da Policia Nacional,2024,11,Cobrança,26,2561175.01,26
+Comando Geral Da Policia Nacional,2024,11,Não paga,16,1238110.02,16
+Comando Geral Da Policia Nacional,2024,11,Paga,591,56977319.05,591
+Comando Geral Da Policia Nacional,2024,12,Atrasada,38,3940553.27,38
+Comando Geral Da Policia Nacional,2024,12,Cobrança,37,3796120.07,37
+Comando Geral Da Policia Nacional,2024,12,Não paga,20,1631901.76,20
+Comando Geral Da Policia Nacional,2024,12,Paga,575,54944236.25,575
+Comando Geral Da Policia Nacional,2024,13,Atrasada,35,3707467.56,35
+Comando Geral Da Policia Nacional,2024,13,Cobrança,19,1790450.01,19
+Comando Geral Da Policia Nacional,2024,13,Não paga,28,2449193.36,28
+Comando Geral Da Policia Nacional,2024,13,Paga,479,45673821.55,479
+Comando Geral Da Policia Nacional,2024,14,Atrasada,36,3787067.56,36
+Comando Geral Da Policia Nacional,2024,14,Não paga,46,4169251.71,46
+Comando Geral Da Policia Nacional,2024,14,Paga,479,45524343.22,479
+Comando Geral Da Policia Nacional,2024,15,Atrasada,37,3876817.55,37
+Comando Geral Da Policia Nacional,2024,15,Cobrança,26,2400136.68,26
+Comando Geral Da Policia Nacional,2024,15,Não paga,45,4067443.37,45
+Comando Geral Da Policia Nacional,2024,15,Paga,453,42995994.87,453
+Comando Geral Da Policia Nacional,2024,16,Atrasada,37,3871834.22,37
+Comando Geral Da Policia Nacional,2024,16,Cobrança,23,1907775.02,23
+Comando Geral Da Policia Nacional,2024,16,Não paga,71,6467580.05,71
+Comando Geral Da Policia Nacional,2024,16,Paga,430,40952933.19,430
+Comando Geral Da Policia Nacional,2024,17,Atrasada,37,3929884.26,37
+Comando Geral Da Policia Nacional,2024,17,Cobrança,33,2591633.35,33
+Comando Geral Da Policia Nacional,2024,17,Não paga,94,8365630.07,94
+Comando Geral Da Policia Nacional,2024,17,Paga,397,38172704.89,397
+Comando Geral Da Policia Nacional,2024,18,Atrasada,38,3939995.0,38
+Comando Geral Da Policia Nacional,2024,18,Cobrança,28,3007783.35,28
+Comando Geral Da Policia Nacional,2024,18,Não paga,127,10957263.42,127
+Comando Geral Da Policia Nacional,2024,18,Paga,366,34827928.92,366
+Comando Geral Da Policia Nacional,2024,19,Atrasada,34,3390428.34,34
+Comando Geral Da Policia Nacional,2024,19,Cobrança,30,2973950.0,30
+Comando Geral Da Policia Nacional,2024,19,Não paga,159,14506380.1,159
+Comando Geral Da Policia Nacional,2024,19,Paga,333,31407953.39,333
+Comando Geral Da Policia Nacional,2024,20,Atrasada,35,3528436.68,35
+Comando Geral Da Policia Nacional,2024,20,Cobrança,43,4627858.34,43
+Comando Geral Da Policia Nacional,2024,20,Não paga,190,17541230.1,190
+Comando Geral Da Policia Nacional,2024,20,Paga,288,26440916.72,288
+Comando Geral Da Policia Nacional,2024,21,Atrasada,32,3115311.67,32
+Comando Geral Da Policia Nacional,2024,21,Cobrança,54,5602300.0,54
+Comando Geral Da Policia Nacional,2024,21,Não paga,236,22567046.77,236
+Comando Geral Da Policia Nacional,2024,21,Paga,234,20713513.38,234
+Comando Geral Da Policia Nacional,2024,22,Atrasada,30,2861203.34,30
+Comando Geral Da Policia Nacional,2024,22,Cobrança,76,6399954.19,76
+Comando Geral Da Policia Nacional,2024,22,Não paga,292,28400650.94,292
+Comando Geral Da Policia Nacional,2024,22,Paga,158,14196093.36,158
+Comando Geral Da Policia Nacional,2024,23,Atrasada,19,1869345.0,19
+Comando Geral Da Policia Nacional,2024,23,Cobrança,58,4402106.69,58
+Comando Geral Da Policia Nacional,2024,23,Não paga,379,35737213.47,379
+Comando Geral Da Policia Nacional,2024,23,Paga,100,9708966.65,100
+Comando Geral Da Policia Nacional,2024,24,Atrasada,8,1072178.41,8
+Comando Geral Da Policia Nacional,2024,24,Cobrança,14,1115087.58,14
+Comando Geral Da Policia Nacional,2024,24,Não paga,448,40826871.01,448
+Comando Geral Da Policia Nacional,2024,24,Paga,86,8563220.98,86
+Comando Geral Da Policia Nacional,2025,1,Cobrança,1,117866.67,1
+Comando Geral Da Policia Nacional,2025,1,Paga,224,22778003.55,224
+Comando Geral Da Policia Nacional,2025,2,Não paga,1,117866.67,1
+Comando Geral Da Policia Nacional,2025,2,Paga,224,22778003.55,224
+Comando Geral Da Policia Nacional,2025,3,Cobrança,6,657643.34,6
+Comando Geral Da Policia Nacional,2025,3,Não paga,1,117866.67,1
+Comando Geral Da Policia Nacional,2025,3,Paga,218,22120360.21,218
+Comando Geral Da Policia Nacional,2025,4,Cobrança,6,518683.33,6
+Comando Geral Da Policia Nacional,2025,4,Não paga,7,775510.01,7
+Comando Geral Da Policia Nacional,2025,4,Paga,212,21601676.88,212
+Comando Geral Da Policia Nacional,2025,5,Cobrança,11,1237550.01,11
+Comando Geral Da Policia Nacional,2025,5,Não paga,13,1294193.34,13
+Comando Geral Da Policia Nacional,2025,5,Paga,201,20364126.87,201
+Comando Geral Da Policia Nacional,2025,6,Atrasada,1,47366.67,1
+Comando Geral Da Policia Nacional,2025,6,Cobrança,6,555943.33,6
+Comando Geral Da Policia Nacional,2025,6,Não paga,24,2531743.35,24
+Comando Geral Da Policia Nacional,2025,6,Paga,194,19760816.87,194
+Comando Geral Da Policia Nacional,2025,7,Atrasada,2,150500.0,2
+Comando Geral Da Policia Nacional,2025,7,Cobrança,11,1021950.02,11
+Comando Geral Da Policia Nacional,2025,7,Não paga,30,3087686.68,30
+Comando Geral Da Policia Nacional,2025,7,Paga,182,18635733.52,182
+Comando Geral Da Policia Nacional,2025,8,Atrasada,2,150500.0,2
+Comando Geral Da Policia Nacional,2025,8,Cobrança,15,1324563.34,15
+Comando Geral Da Policia Nacional,2025,8,Não paga,40,4052120.03,40
+Comando Geral Da Policia Nacional,2025,8,Paga,168,17368686.85,168
+Comando Geral Da Policia Nacional,2025,9,Atrasada,2,150500.0,2
+Comando Geral Da Policia Nacional,2025,9,Cobrança,47,5580287.69,47
+Comando Geral Da Policia Nacional,2025,9,Não paga,55,5376683.37,55
+Comando Geral Da Policia Nacional,2025,9,Paga,121,11788399.16,121
+Comando Geral Da Policia Nacional,2025,10,Atrasada,1,47366.67,1
+Comando Geral Da Policia Nacional,2025,10,Cobrança,37,4061172.3,37
+Comando Geral Da Policia Nacional,2025,10,Não paga,103,11060104.39,103
+Comando Geral Da Policia Nacional,2025,10,Paga,84,7727226.86,84
+Comando Geral Da Policia Nacional,2025,11,Atrasada,1,47366.67,1
+Comando Geral Da Policia Nacional,2025,11,Cobrança,34,3354647.28,34
+Comando Geral Da Policia Nacional,2025,11,Não paga,140,15121276.69,140
+Comando Geral Da Policia Nacional,2025,11,Paga,50,4372579.58,50
+Comando Geral Da Policia Nacional,2025,12,Cobrança,44,3668312.87,44
+Comando Geral Da Policia Nacional,2025,12,Não paga,175,18523290.84,175
+Comando Geral Da Policia Nacional,2025,12,Paga,6,704266.63,6
+Comando Geral Da Policia Nacional,2025,13,Cobrança,4,412766.67,4
+Comando Geral Da Policia Nacional,2025,13,Não paga,175,17859070.32,175
+Comando Geral Da Policia Nacional,2025,13,Paga,1,236833.33,1
+Comando Geral Da Policia Nacional,2025,14,Não paga,176,17920033.79,176
+Comando Geral Da Policia Nacional,2025,14,Paga,1,236833.33,1
+Comando Geral Da Policia Nacional,2025,15,Não paga,174,17685250.92,174
+Comando Geral Da Policia Nacional,2025,15,Paga,1,236833.33,1
+Comando Geral Da Policia Nacional,2025,16,Não paga,171,17353984.3,171
+Comando Geral Da Policia Nacional,2025,16,Paga,1,236833.33,1
+Comando Geral Da Policia Nacional,2025,17,Cobrança,1,236833.33,1
+Comando Geral Da Policia Nacional,2025,17,Não paga,171,17353984.3,171
+Comando Geral Da Policia Nacional,2025,18,Não paga,172,17590817.55,172
+Comando Geral Da Policia Nacional,2025,19,Não paga,170,17361422.07,170
+Comando Geral Da Policia Nacional,2025,20,Não paga,170,17361422.07,170
+Comando Geral Da Policia Nacional,2025,21,Não paga,168,17143822.1,168
+Comando Geral Da Policia Nacional,2025,22,Não paga,167,17024393.5,167
+Comando Geral Da Policia Nacional,2025,23,Não paga,167,17024393.5,167
+Comando Geral Da Policia Nacional,2025,24,Não paga,167,17024389.5,167
+Comando Geral Da Policia Nacional,2026,1,Atrasada,18,2273030.83,18
+Comando Geral Da Policia Nacional,2026,1,Cobrança,60,7314131.52,60
+Comando Geral Da Policia Nacional,2026,1,Não paga,61,8287085.82,61
+Comando Geral Da Policia Nacional,2026,1,Paga,279,34488016.94,279
+Comando Geral Da Policia Nacional,2026,2,Atrasada,4,406125.02,4
+Comando Geral Da Policia Nacional,2026,2,Cobrança,74,9091099.94,74
+Comando Geral Da Policia Nacional,2026,2,Não paga,135,17451048.67,135
+Comando Geral Da Policia Nacional,2026,2,Paga,205,25357887.07,205
+Comando Geral Da Policia Nacional,2026,3,Atrasada,1,81171.6,1
+Comando Geral Da Policia Nacional,2026,3,Cobrança,49,6301649.98,49
+Comando Geral Da Policia Nacional,2026,3,Não paga,212,26861808.24,212
+Comando Geral Da Policia Nacional,2026,3,Paga,156,19052848.42,156
+Comando Geral Da Policia Nacional,2026,4,Atrasada,1,79580.0,1
+Comando Geral Da Policia Nacional,2026,4,Cobrança,45,5212711.24,45
+Comando Geral Da Policia Nacional,2026,4,Não paga,261,33159859.82,261
+Comando Geral Da Policia Nacional,2026,4,Paga,111,13840137.18,111
+Comando Geral Da Policia Nacional,2026,5,Cobrança,33,3968321.07,33
+Comando Geral Da Policia Nacional,2026,5,Não paga,307,38452151.06,307
+Comando Geral Da Policia Nacional,2026,5,Paga,78,9871816.11,78
+Comando Geral Da Policia Nacional,2026,6,Cobrança,26,3588511.71,26
+Comando Geral Da Policia Nacional,2026,6,Não paga,340,42420472.13,340
+Comando Geral Da Policia Nacional,2026,6,Paga,52,6283304.4,52
+Comando Geral Da Policia Nacional,2026,7,Cobrança,34,4162454.39,34
+Comando Geral Da Policia Nacional,2026,7,Não paga,366,46008983.84,366
+Comando Geral Da Policia Nacional,2026,7,Paga,18,2120850.01,18
+Comando Geral Da Policia Nacional,2026,8,Cobrança,14,1682533.35,14
+Comando Geral Da Policia Nacional,2026,8,Não paga,400,50171438.23,400
+Comando Geral Da Policia Nacional,2026,8,Paga,4,438316.66,4
+Comando Geral Da Policia Nacional,2026,9,Cobrança,4,438316.66,4
+Comando Geral Da Policia Nacional,2026,9,Não paga,414,51853971.58,414
+Comando Geral Da Policia Nacional,2026,10,Não paga,418,52292288.24,418
+Comando Geral Da Policia Nacional,2026,11,Não paga,418,52292288.24,418
+Comando Geral Da Policia Nacional,2026,12,Não paga,418,52292288.04,418
+Comando Geral Da Policia Nacional,2026,13,Não paga,340,42528744.86,340
+Comando Geral Da Policia Nacional,2026,14,Não paga,338,42333772.58,338
+Comando Geral Da Policia Nacional,2026,15,Não paga,338,42333772.58,338
+Comando Geral Da Policia Nacional,2026,16,Não paga,338,42333772.58,338
+Comando Geral Da Policia Nacional,2026,17,Não paga,338,42333772.58,338
+Comando Geral Da Policia Nacional,2026,18,Não paga,338,42333772.54,338
+Comando Geral Da Policia Nacional,2026,19,Não paga,337,42211194.8,337
+Comando Geral Da Policia Nacional,2026,20,Não paga,337,42211194.8,337
+Comando Geral Da Policia Nacional,2026,21,Não paga,336,42125914.8,336
+Comando Geral Da Policia Nacional,2026,22,Não paga,336,42125914.8,336
+Comando Geral Da Policia Nacional,2026,23,Não paga,336,42125914.8,336
+Comando Geral Da Policia Nacional,2026,24,Não paga,336,42125919.64,336
+Jupiter Desenvolvimento Informático Lda,2022,1,Paga,84,11090193.8,84
+Jupiter Desenvolvimento Informático Lda,2022,2,Paga,84,11070813.8,84
+Jupiter Desenvolvimento Informático Lda,2022,3,Paga,84,11070813.8,84
+Jupiter Desenvolvimento Informático Lda,2022,4,Paga,84,11070813.8,84
+Jupiter Desenvolvimento Informático Lda,2022,5,Paga,84,11070813.8,84
+Jupiter Desenvolvimento Informático Lda,2022,6,Paga,84,11070813.8,84
+Jupiter Desenvolvimento Informático Lda,2022,7,Paga,84,11070813.8,84
+Jupiter Desenvolvimento Informático Lda,2022,8,Paga,84,10995639.07,84
+Jupiter Desenvolvimento Informático Lda,2022,9,Paga,84,10995639.07,84
+Jupiter Desenvolvimento Informático Lda,2022,10,Paga,84,10995639.07,84
+Jupiter Desenvolvimento Informático Lda,2022,11,Paga,84,10995639.07,84
+Jupiter Desenvolvimento Informático Lda,2022,12,Atrasada,1,72438.81,1
+Jupiter Desenvolvimento Informático Lda,2022,12,Paga,83,10923200.29,83
+Jupiter Desenvolvimento Informático Lda,2022,13,Paga,73,9740320.65,73
+Jupiter Desenvolvimento Informático Lda,2022,14,Paga,72,9667524.35,72
+Jupiter Desenvolvimento Informático Lda,2022,15,Paga,70,9456911.7,70
+Jupiter Desenvolvimento Informático Lda,2022,16,Paga,68,9196146.93,68
+Jupiter Desenvolvimento Informático Lda,2022,17,Atrasada,1,124545.66,1
+Jupiter Desenvolvimento Informático Lda,2022,17,Paga,66,8964110.99,66
+Jupiter Desenvolvimento Informático Lda,2022,18,Atrasada,1,124545.66,1
+Jupiter Desenvolvimento Informático Lda,2022,18,Paga,66,8964111.04,66
+Jupiter Desenvolvimento Informático Lda,2022,19,Atrasada,1,124545.66,1
+Jupiter Desenvolvimento Informático Lda,2022,19,Paga,65,8632563.03,65
+Jupiter Desenvolvimento Informático Lda,2022,20,Atrasada,1,124545.66,1
+Jupiter Desenvolvimento Informático Lda,2022,20,Paga,65,8632563.13,65
+Jupiter Desenvolvimento Informático Lda,2022,21,Atrasada,1,124545.66,1
+Jupiter Desenvolvimento Informático Lda,2022,21,Paga,64,8280757.65,64
+Jupiter Desenvolvimento Informático Lda,2022,22,Atrasada,1,124545.66,1
+Jupiter Desenvolvimento Informático Lda,2022,22,Paga,64,8280757.65,64
+Jupiter Desenvolvimento Informático Lda,2022,23,Atrasada,1,124545.66,1
+Jupiter Desenvolvimento Informático Lda,2022,23,Paga,64,8280757.65,64
+Jupiter Desenvolvimento Informático Lda,2022,24,Atrasada,1,124545.68,1
+Jupiter Desenvolvimento Informático Lda,2022,24,Paga,64,8280755.72,64
+Jupiter Desenvolvimento Informático Lda,2023,1,Paga,11,1503440.46,11
+Jupiter Desenvolvimento Informático Lda,2023,2,Paga,11,1503440.46,11
+Jupiter Desenvolvimento Informático Lda,2023,3,Paga,11,1503440.46,11
+Jupiter Desenvolvimento Informático Lda,2023,4,Paga,11,1503440.46,11
+Jupiter Desenvolvimento Informático Lda,2023,5,Paga,11,1503440.46,11
+Jupiter Desenvolvimento Informático Lda,2023,6,Paga,11,1488740.46,11
+Jupiter Desenvolvimento Informático Lda,2023,7,Paga,11,1488740.46,11
+Jupiter Desenvolvimento Informático Lda,2023,8,Paga,11,1478940.46,11
+Jupiter Desenvolvimento Informático Lda,2023,9,Paga,11,1478940.46,11
+Jupiter Desenvolvimento Informático Lda,2023,10,Paga,11,1478940.46,11
+Jupiter Desenvolvimento Informático Lda,2023,11,Paga,11,1478940.46,11
+Jupiter Desenvolvimento Informático Lda,2023,12,Paga,11,1478940.46,11
+Jupiter Desenvolvimento Informático Lda,2023,13,Paga,9,1212690.46,9
+Jupiter Desenvolvimento Informático Lda,2023,14,Paga,9,1212690.5,9
+Jupiter Desenvolvimento Informático Lda,2023,15,Paga,8,1148833.32,8
+Jupiter Desenvolvimento Informático Lda,2023,16,Paga,7,935333.32,7
+Jupiter Desenvolvimento Informático Lda,2023,17,Paga,7,935333.32,7
+Jupiter Desenvolvimento Informático Lda,2023,18,Paga,7,935333.32,7
+Jupiter Desenvolvimento Informático Lda,2023,19,Paga,7,935333.32,7
+Jupiter Desenvolvimento Informático Lda,2023,20,Paga,7,935333.32,7
+Jupiter Desenvolvimento Informático Lda,2023,21,Paga,7,935333.32,7
+Jupiter Desenvolvimento Informático Lda,2023,22,Paga,7,935333.32,7
+Jupiter Desenvolvimento Informático Lda,2023,23,Paga,7,935333.32,7
+Jupiter Desenvolvimento Informático Lda,2023,24,Paga,7,935333.64,7
+Jupiter Desenvolvimento Informático Lda,2024,1,Cobrança,1,214666.67,1
+Jupiter Desenvolvimento Informático Lda,2024,1,Paga,21,2190713.33,21
+Jupiter Desenvolvimento Informático Lda,2024,2,Paga,22,2401880.0,22
+Jupiter Desenvolvimento Informático Lda,2024,3,Paga,22,2398380.0,22
+Jupiter Desenvolvimento Informático Lda,2024,4,Paga,22,2389000.0,22
+Jupiter Desenvolvimento Informático Lda,2024,5,Paga,22,2385500.0,22
+Jupiter Desenvolvimento Informático Lda,2024,6,Paga,22,2382000.0,22
+Jupiter Desenvolvimento Informático Lda,2024,7,Paga,22,2378500.0,22
+Jupiter Desenvolvimento Informático Lda,2024,8,Paga,22,2375000.0,22
+Jupiter Desenvolvimento Informático Lda,2024,9,Paga,22,2371500.0,22
+Jupiter Desenvolvimento Informático Lda,2024,10,Paga,22,2368000.0,22
+Jupiter Desenvolvimento Informático Lda,2024,11,Paga,22,2364500.0,22
+Jupiter Desenvolvimento Informático Lda,2024,12,Paga,22,2361000.04,22
+Jupiter Desenvolvimento Informático Lda,2024,13,Paga,17,1983166.67,17
+Jupiter Desenvolvimento Informático Lda,2024,14,Paga,17,1982000.0,17
+Jupiter Desenvolvimento Informático Lda,2024,15,Paga,17,1943108.34,17
+Jupiter Desenvolvimento Informático Lda,2024,16,Cobrança,1,245333.33,1
+Jupiter Desenvolvimento Informático Lda,2024,16,Paga,16,1696608.34,16
+Jupiter Desenvolvimento Informático Lda,2024,17,Não paga,1,245333.33,1
+Jupiter Desenvolvimento Informático Lda,2024,17,Paga,16,1695441.68,16
+Jupiter Desenvolvimento Informático Lda,2024,18,Não paga,1,245333.33,1
+Jupiter Desenvolvimento Informático Lda,2024,18,Paga,16,1694275.01,16
+Jupiter Desenvolvimento Informático Lda,2024,19,Não paga,1,245333.33,1
+Jupiter Desenvolvimento Informático Lda,2024,19,Paga,16,1693108.34,16
+Jupiter Desenvolvimento Informático Lda,2024,20,Cobrança,1,214666.67,1
+Jupiter Desenvolvimento Informático Lda,2024,20,Não paga,1,245333.33,1
+Jupiter Desenvolvimento Informático Lda,2024,20,Paga,15,1430118.76,15
+Jupiter Desenvolvimento Informático Lda,2024,21,Cobrança,2,191666.66,2
+Jupiter Desenvolvimento Informático Lda,2024,21,Não paga,2,460000.0,2
+Jupiter Desenvolvimento Informático Lda,2024,21,Paga,13,1237285.43,13
+Jupiter Desenvolvimento Informático Lda,2024,22,Cobrança,2,207000.0,2
+Jupiter Desenvolvimento Informático Lda,2024,22,Não paga,4,651666.66,4
+Jupiter Desenvolvimento Informático Lda,2024,22,Paga,11,1029118.76,11
+Jupiter Desenvolvimento Informático Lda,2024,23,Cobrança,5,532833.35,5
+Jupiter Desenvolvimento Informático Lda,2024,23,Não paga,6,858666.66,6
+Jupiter Desenvolvimento Informático Lda,2024,23,Paga,6,495118.75,6
+Jupiter Desenvolvimento Informático Lda,2024,24,Cobrança,1,92000.0,1
+Jupiter Desenvolvimento Informático Lda,2024,24,Não paga,11,1391499.77,11
+Jupiter Desenvolvimento Informático Lda,2024,24,Paga,5,401952.24,5
+Jupiter Desenvolvimento Informático Lda,2025,1,Paga,16,2836666.67,16
+Jupiter Desenvolvimento Informático Lda,2025,2,Paga,16,2836666.67,16
+Jupiter Desenvolvimento Informático Lda,2025,3,Paga,16,2836666.67,16
+Jupiter Desenvolvimento Informático Lda,2025,4,Paga,16,2836666.67,16
+Jupiter Desenvolvimento Informático Lda,2025,5,Paga,16,2836666.67,16
+Jupiter Desenvolvimento Informático Lda,2025,6,Paga,16,2803216.67,16
+Jupiter Desenvolvimento Informático Lda,2025,7,Paga,16,2803216.67,16
+Jupiter Desenvolvimento Informático Lda,2025,8,Paga,16,2803216.67,16
+Jupiter Desenvolvimento Informático Lda,2025,9,Cobrança,1,191666.67,1
+Jupiter Desenvolvimento Informático Lda,2025,9,Paga,15,2611550.0,15
+Jupiter Desenvolvimento Informático Lda,2025,10,Não paga,1,191666.67,1
+Jupiter Desenvolvimento Informático Lda,2025,10,Paga,15,2611550.0,15
+Jupiter Desenvolvimento Informático Lda,2025,11,Cobrança,2,268333.33,2
+Jupiter Desenvolvimento Informático Lda,2025,11,Não paga,1,191666.67,1
+Jupiter Desenvolvimento Informático Lda,2025,11,Paga,13,2343216.67,13
+Jupiter Desenvolvimento Informático Lda,2025,12,Não paga,3,460000.0,3
+Jupiter Desenvolvimento Informático Lda,2025,12,Paga,13,2343216.67,13
+Jupiter Desenvolvimento Informático Lda,2025,13,Cobrança,5,820333.34,5
+Jupiter Desenvolvimento Informático Lda,2025,13,Não paga,3,460000.0,3
+Jupiter Desenvolvimento Informático Lda,2025,13,Paga,8,1522883.33,8
+Jupiter Desenvolvimento Informático Lda,2025,14,Não paga,8,1280333.34,8
+Jupiter Desenvolvimento Informático Lda,2025,14,Paga,8,1522883.33,8
+Jupiter Desenvolvimento Informático Lda,2025,15,Cobrança,2,843333.33,2
+Jupiter Desenvolvimento Informático Lda,2025,15,Não paga,8,1280333.34,8
+Jupiter Desenvolvimento Informático Lda,2025,15,Paga,6,679550.0,6
+Jupiter Desenvolvimento Informático Lda,2025,16,Cobrança,4,521333.33,4
+Jupiter Desenvolvimento Informático Lda,2025,16,Não paga,10,2123666.67,10
+Jupiter Desenvolvimento Informático Lda,2025,16,Paga,2,158216.67,2
+Jupiter Desenvolvimento Informático Lda,2025,17,Não paga,14,2645000.0,14
+Jupiter Desenvolvimento Informático Lda,2025,17,Paga,2,158216.67,2
+Jupiter Desenvolvimento Informático Lda,2025,18,Não paga,14,2645000.0,14
+Jupiter Desenvolvimento Informático Lda,2025,18,Paga,2,158216.67,2
+Jupiter Desenvolvimento Informático Lda,2025,19,Cobrança,1,99666.67,1
+Jupiter Desenvolvimento Informático Lda,2025,19,Não paga,14,2645000.0,14
+Jupiter Desenvolvimento Informático Lda,2025,19,Paga,1,58550.0,1
+Jupiter Desenvolvimento Informático Lda,2025,20,Não paga,15,2744666.67,15
+Jupiter Desenvolvimento Informático Lda,2025,20,Paga,1,58550.0,1
+Jupiter Desenvolvimento Informático Lda,2025,21,Não paga,15,2744666.67,15
+Jupiter Desenvolvimento Informático Lda,2025,21,Paga,1,58550.0,1
+Jupiter Desenvolvimento Informático Lda,2025,22,Não paga,15,2744666.67,15
+Jupiter Desenvolvimento Informático Lda,2025,22,Paga,1,58550.0,1
+Jupiter Desenvolvimento Informático Lda,2025,23,Não paga,15,2744666.67,15
+Jupiter Desenvolvimento Informático Lda,2025,23,Paga,1,58550.0,1
+Jupiter Desenvolvimento Informático Lda,2025,24,Não paga,15,2744666.59,15
+Jupiter Desenvolvimento Informático Lda,2025,24,Paga,1,58550.0,1
